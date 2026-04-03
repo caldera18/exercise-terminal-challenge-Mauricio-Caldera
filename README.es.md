@@ -45,6 +45,8 @@ git checkout HEAD --
 
 > 💡 Importante: Recuerda guardar y subir tu código en GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal git.
 
+</onlyfor>
+
 ## Solo los profesores debe seguir este paso:
 
 **Los pequeños desafíos y los slides interactivos NO están en este repositorio, sino que están desplegados en otro lugar.**  
@@ -71,7 +73,6 @@ $ npm install
 ```bash
 $ npm run start
 ```
-</onlyfor>
 
 
 Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
