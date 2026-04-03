@@ -7,8 +7,6 @@ Este desafío de la línea de comando está diseñado para que te familiarices c
 > ❗ Te recomendamos que leas la lección [La Línea de Comando](https://4geeks.com/es/lesson/the-command-line-the-terminal-es) en la plataforma de 4Geeks.com antes de hacer este ejercicio.
 
 💻 El desafío está diseñado para computadoras que usan Linux bash. Usa Github Codespaces o Gitpod si necesitas una terminal en la nube.
-
-<onlyfor saas="false" withBanner="false">
   
 ## 🌱 Cómo comenzar este proyecto
 
@@ -16,6 +14,8 @@ Este desafío de la línea de comando está diseñado para que te familiarices c
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato. Dentro de este repositorio encontrarás una estructura de carpetas organizadas con las que vas poder trabajar.
 
+<onlyfor saas="false" withBanner="false">
+  
 Recomendamos abrir este mismo repositorio usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). 
 
 Este es el repositorio que necesitas abrir:
