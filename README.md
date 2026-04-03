@@ -43,6 +43,8 @@ git checkout HEAD --
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit`, and `push` commands from the git terminal.
 
+</onlyfor>
+
 ## Only teachers should follow this step:
 
 **The small challenges and interactive slides are NOT in this repository, but are deployed elsewhere.**  
@@ -68,6 +70,5 @@ $ npm install
 ```bash
 $ npm run start
 ```
-</onlyfor>
 
 This and many other projects are used to [learn to code](https://4geeksacademy.com/us/learn-to-code) by students of 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) created by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Learn more about our [Programming Courses](https://4geeksacademy.com/us/programming-courses) to become a [Full Stack Developer](https://4geeksacademy.com/us/coding-bootcamps/full-stack-developer), or our [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
