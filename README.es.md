@@ -48,6 +48,7 @@ git checkout HEAD --
 </onlyfor>
 
 <onlyfor withBanner="false" include="read_teacher_instructions">
+  
 ## Solo los profesores debe seguir este paso:
 
 **Los pequeños desafíos y los slides interactivos NO están en este repositorio, sino que están desplegados en otro lugar.**  
