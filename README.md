@@ -10,7 +10,7 @@ This command line challenge is designed to familiarize you with the terminal. Th
   
 ## 🌱 How to start this project
 
-### 👩‍🎓 Students and Teachers should follow this step
+### 👩‍🎓 Students and Teachers should follow this step.
 
 This project comes with the necessary files to start working immediately. Inside this repository, you will find an organized folder structure to work with.
 
