@@ -8,7 +8,7 @@ This command line challenge is designed to familiarize you with the terminal. Th
 
 💻 The challenge is designed for computers using Linux bash. Use Github Codespaces or Gitpod if you need a cloud terminal.
   
-## 🌱 How to start this project. (this is a great project)
+## 🌱 How to start this project
 
 ### 👩‍🎓 Students and Teachers should follow this step.
 
